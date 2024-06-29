@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146371207740",
+    "project_id": "dars-46",
+    "storage_bucket": "dars-46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146371207740:android:fb826c0f9cf5fa772fd939",
+        "android_client_info": {
+          "package_name": "com.example.dars_46"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVVXaDzZxuFiguBcU8_0DObNchlGORGSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
